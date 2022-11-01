@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cam Ziny</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<h5 align="center">I am currently training as a full-stack developer and working to pursue junior software development roles at an innovative company. I'm open to remote roles or hybrid / onsite roles in the Greater Boston Area.</h5>
+<h4 align="center">I am currently training as a full-stack developer and working to pursue junior software development roles at an innovative company. I'm open to remote roles or hybrid / onsite roles in the Greater Boston Area.</h4>
 
 
-- 👨‍💻 All of my projects are available at [camziny.com](camziny.com)
+- 👨‍💻 All of my projects are available at [camziny.com](https://camziny.com/)
 
 - 📫 How to reach me **cameronziny@gmail.com**
 
