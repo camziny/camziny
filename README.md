@@ -18,5 +18,3 @@
 ![camziny's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camziny&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
 (https://github.com/anuraghazra/github-readme-stats)
 
-![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=transparent)
-
