@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cam Ziny</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<h4 align="center">I'm currently pursuing software development roles at an innovative company. Open to remote roles or hybrid / onsite roles in the Greater Boston Area..</h4>
+<h4 align="center">I'm currently working as a Software Developer at Epipelagic Ventures</h4>
 
 
 - 👨‍💻 All of my projects are available at [camziny.com](https://camziny.com/)
