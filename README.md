@@ -4,7 +4,7 @@
 
 I build scalable applications using modern technologies. Currently working at **Epipelagic Ventures**.
 
-[Portfolio](https://camziny.com) • [LinkedIn](https://linkedin.com/in/camziny) • [Email](mailto:camziny@gmail.com)
+[Portfolio](https://camziny.com) • [LinkedIn](https://www.linkedin.com/in/cameron-ziny/) • [Email](mailto:camziny@gmail.com)
 
 ---
 
