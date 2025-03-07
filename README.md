@@ -59,7 +59,11 @@ I build scalable applications using modern technologies. Currently working at **
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/camziny" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:320px; height:auto;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=default&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" style="width:320px; height:auto;">
+    </picture>
   </a>
   <a href="https://github.com/camziny" target="_blank">
     <picture>
@@ -69,3 +73,4 @@ I build scalable applications using modern technologies. Currently working at **
     </picture>
   </a>
 </div>
+
