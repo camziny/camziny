@@ -22,9 +22,6 @@ I build scalable applications using modern technologies. Currently working at **
   <table>
     <tr>
       <td align="center">
-        <img height="110" src="https://github-readme-stats.vercel.app/api?username=camziny&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
         <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camziny&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
